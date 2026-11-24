@@ -1,0 +1,25 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Dependencias y build de Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.tmp/
+
+# Variables de entorno reales 
+.env
+backend/.env
+frontend/.env
+
+# Sistema Operativo / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
