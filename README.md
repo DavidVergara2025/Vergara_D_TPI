@@ -5,8 +5,8 @@
 
 ## Enlaces de Entrega 
 
-* **Repositorio público de GitHub:** `` 
-* **Video de demostración:** ` 
+* **Repositorio público de GitHub:** `https://github.com/DavidVergara2025/Vergara_D_TPI` 
+* **Video de demostración:** `https://drive.google.com/file/d/17NJc0SY6ziXXCLRLStOZu5ll7i-leabb/view?usp=sharing` 
 
 ---
 
